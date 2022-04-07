@@ -12,6 +12,28 @@ public class Q02_NestedTernary {
 
     public static void main(String[] args) {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         char finalNotu = 'B';
 
         // String result ="";

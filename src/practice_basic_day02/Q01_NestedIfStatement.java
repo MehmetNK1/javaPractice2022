@@ -16,6 +16,28 @@ public class Q01_NestedIfStatement {
 
     public static void main(String[] args) {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         Scanner scan = new Scanner(System.in);
         System.out.print("yasinizi giriniz :");
         int age = scan.nextInt();

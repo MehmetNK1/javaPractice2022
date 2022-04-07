@@ -12,6 +12,31 @@ public class Q04_SwitchCase02 {
 			 C'yi secmis ise, ==> I need to study :)
 		 */
         public static void main(String[] args) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 Scanner scan = new Scanner(System.in);
                 System.out.println("Lutfen harflerden birini seciniz : \nA \nB \nC");
                 char secenek = scan.next().toUpperCase().charAt(0);

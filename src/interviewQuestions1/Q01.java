@@ -38,7 +38,5 @@ public class Q01 {
                System.out.println(arr[i] + " sayisi " + (counter+1));
            }
        }
-
    }
-
 }

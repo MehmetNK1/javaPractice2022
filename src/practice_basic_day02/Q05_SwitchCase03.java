@@ -8,6 +8,28 @@ public class Q05_SwitchCase03 {
 
     public static void main(String[] args) {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         Scanner scan = new Scanner(System.in);
         System.out.print("sayi giriniz :");
         int sayi = scan.nextInt();

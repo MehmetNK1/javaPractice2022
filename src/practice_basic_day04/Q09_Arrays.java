@@ -17,10 +17,8 @@ public class Q09_Arrays {
                 if (arr[i][j]%2==0){
                     toplam+=arr[i][j];
                 }
-
             }
         }
         System.out.println(toplam);
-
     }
 }

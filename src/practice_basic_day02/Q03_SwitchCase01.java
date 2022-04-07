@@ -17,6 +17,30 @@ public class Q03_SwitchCase01 {
 */
     public static void main(String[] args) {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         String day = "Friday";
 
         switch (day) {

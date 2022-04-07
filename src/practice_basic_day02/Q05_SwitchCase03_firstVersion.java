@@ -6,6 +6,35 @@ public class Q05_SwitchCase03_firstVersion {
     // Girilen uc haneli bir sayının onlar basamağının değerini yazı ile yazdırınız.
     public static void main(String[] args) {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         Scanner scan = new Scanner(System.in);
         System.out.print("sayi giriniz :");
         int sayi = scan.nextInt();

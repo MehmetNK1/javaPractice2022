@@ -8,11 +8,6 @@ public class Q03_CountFactors {
        Write a program to count the factors of an integer which is entered by user.
        Factors of 12 = 1, 2, 3, 4, 6, 12 ==> 6
        Factors of 8  = 1, 2, 4, 8 ==> 4
-
-       while döngüsünü kullanarak java kodunu yazın,
-        Kullanıcı tarafından girilen bir tamsayının çarpanlarını sayan bir program yazınız.
-        12'nin çarpanları = 1, 2, 3, 4, 6, 12 ==> 6
-        8'in çarpanları = 1, 2, 4, 8 ==> 4
 */
       public static void main(String[] args) {
           Scanner scan = new Scanner(System.in);

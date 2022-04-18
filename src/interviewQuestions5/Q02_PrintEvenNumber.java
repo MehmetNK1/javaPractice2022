@@ -7,9 +7,6 @@ public class Q02_PrintEvenNumber {
     /*
     Write a method named isEven that accepts an integer argument.
     The method should return true if the argument is even, or false otherwise.
-
-    Bir tamsayı argümanını kabul eden isEven adında bir yöntem yazın.
-     Argüman çift ise yöntem true, aksi takdirde false döndürmelidir.
     */
 
     public static void main(String[] args) {
@@ -22,5 +19,6 @@ public class Q02_PrintEvenNumber {
     private static boolean isEvenCift(int sayi) {
         if(sayi%2==0) return true;
         else return false;
+
     }
 }

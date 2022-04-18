@@ -7,10 +7,6 @@ public class Q05_UsingDoWhileWithCondition {
         Ask user to enter an integer.
         If the integer is less than 100, tell user "Won!"
         Otherwise tell user "Lost!"
-
-        Kullanıcıdan bir tamsayı girmesini isteyin.
-         Tam sayı 100'den küçükse, kullanıcıya "Won!" Deyin.
-         Aksi takdirde kullanıcıya "Kayıp!" deyin.
     */
 
     public static void main(String[] args) {

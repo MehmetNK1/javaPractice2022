@@ -9,12 +9,6 @@ public class Q01_UsingDoWhilePrintNumber {
         print the number
         increment by 5
         for example: 0   5   10  15  20
-
-        bir int oluştur
-         int 100'den küçükken yap
-         numarayı yazdır
-         5 ile artış
-         örneğin: 0 5 10 15 20
      */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -26,4 +20,5 @@ public class Q01_UsingDoWhilePrintNumber {
             sayi+=5; // increment degeri
         }while (sayi<100); //sartimiz var
     }
+
 }

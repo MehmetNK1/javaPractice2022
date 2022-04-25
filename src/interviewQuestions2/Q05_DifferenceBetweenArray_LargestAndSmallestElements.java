@@ -18,8 +18,9 @@ public class Q05_DifferenceBetweenArray_LargestAndSmallestElements {
         int uznluk = scan.nextInt();
         int arr [] = new int[uznluk];
         for (int i = 0; i < uznluk; i++){
-            System.out.println(" arryin "+ (i+1)+ "elamani :");
+            System.out.println(" arryin "+ (i+1)+ " elamani :");
             arr[i]=scan.nextInt();
+
         }
         Arrays.sort(arr);
         System.out.println("son eleman- ilk eleman "+(arr[uznluk-1]-arr[0]));

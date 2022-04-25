@@ -8,6 +8,7 @@ public class Q03 {
     Kullanıcıdan pozitif bir sayı girmesini isteyin ve asal olup olmadığını kontrol edin
      */
 
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Bir sayi giriniz :");
